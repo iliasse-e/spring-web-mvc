@@ -1,5 +1,7 @@
 # Introduction à Spring Web MVC
 
+*Source des notes : https://gayerie.dev/docs/spring/spring/spring_mvc_intro.html#*
+
 Spring Web MVC est le module Spring consacré au développement d’application Web et d’API Web. Le nom de ce module renvoie directement au modèle MVC (Modèle Vue Contrôleur). Le modèle MVC n’est pas réservé au développement Web et même, son application n’a pas vraiment de sens pour le développement d’API Web. Quoi qu’il en soit, les notions de modèle, de contrôleur et de vue sont centrales pour Spring Web MVC. Dans ce chapitre, nous rappellerons le principe du modèle MVC et nous verrons comment intégrer Spring Web MVC dans une application Spring Boot et dans une application sans Spring Boot.
 
 
